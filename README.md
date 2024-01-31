@@ -1,5 +1,6 @@
 # BIGCON2023
-주제 : 상업용 부동산 가치 창출을 위한 소상공인 매출등급 예측모형 제작 및 활용방안 제시
+### 빅콘테스트 빅데이터플랫폼분야 지정주제(부동산) 리그
+#### 주제 : 상업용 부동산 가치 창출을 위한 소상공인 매출등급 예측모형 제작 및 활용방안 제시
 
 ![첫 화면](https://github.com/NYOONJEONG/Effects-of-Demographic-Changes-on-the-Economy/assets/101466284/d2a663ed-f408-4c25-ae62-ffd530082d47)
 
