@@ -6,6 +6,8 @@
 
 ![사용한 데이터](https://github.com/NYOONJEONG/Effects-of-Demographic-Changes-on-the-Economy/assets/101466284/27760dfe-aee8-4517-bbfa-c49e9800802a)
 
+![분석 절차 flow chart](https://github.com/NYOONJEONG/Effects-of-Demographic-Changes-on-the-Economy/assets/101466284/b3910bc7-cd4a-49d3-a62e-2f9fb10dfc66)
+
 ![분석 과정](https://github.com/NYOONJEONG/Effects-of-Demographic-Changes-on-the-Economy/assets/101466284/692ebace-5065-45e6-bdc1-34cc963c392a)
 
 ![회귀](https://github.com/NYOONJEONG/Effects-of-Demographic-Changes-on-the-Economy/assets/101466284/290429ee-615a-4577-970e-b0e3b003f543)
